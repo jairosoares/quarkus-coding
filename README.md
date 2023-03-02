@@ -1,4 +1,4 @@
-# code-with-quarkus 
+# quarkus-coding
 
 Esse projeto está rodando normalmente, do ponto de vista do FruitResource,
 ou seja, está fazendo buscas e persistindo normalmente.
